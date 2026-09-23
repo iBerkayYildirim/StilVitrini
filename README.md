@@ -4,7 +4,7 @@
 
 Stil Vitrini, yazılımcılar ve tasarımcılar için hazırlanmış interaktif bir UI stil kataloğudur. Tek bir e-ticaret sayfası (hayali bir seramik atölyesi: *Kulp & Kil*) Minimalizm'den Vaporwave'e kadar 24 farklı tasarım stiliyle gösterilir. HTML hiç değişmez; yalnızca CSS değişir. Böylece her stilin aynı içeriğe ne kattığını yan yana görebilirsiniz.
 
-🔗 **Canlı demo:** `https://<iBerkayYildirim>.github.io/<Stil-Vitrini>/`
+🔗 **Canlı demo:** `https://iberkayyildirim.github.io/StilVitrini/`
 
 ![Stil Vitrini ekran görüntüsü](docs/screenshot.png)
 
